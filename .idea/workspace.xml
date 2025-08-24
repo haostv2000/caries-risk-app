@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ecc1195f-86cc-4026-b544-b3f0c76c597d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caries_risk.py" beforeDir="false" afterPath="$PROJECT_DIR$/caries_risk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -65,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755990996088</updated>
       <workItem from="1755991039864" duration="810000" />
-      <workItem from="1755991958351" duration="3637000" />
+      <workItem from="1755991958351" duration="4129000" />
     </task>
     <servers />
   </component>
